@@ -1,0 +1,19 @@
+{
+  "name": "nop-nuxt-demo",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nop-app/nuxt-nop": "^2.0.0",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "nuxt-buefy": "^0.4.4"
+  },
+  "devDependencies": {}
+}
