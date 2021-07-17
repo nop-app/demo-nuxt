@@ -930,16 +930,16 @@
     fastq "^1.6.0"
 
 "@nop-app/nuxt-nop@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@nop-app/nuxt-nop/-/nuxt-nop-2.0.0.tgz#6850ab021f8d0dc33d51087e70694c02896e9f28"
-  integrity sha512-upCtObp+ENcMtNmjMClUnAyflcgln1sA22KD0hkDrwu2ZP+cTXLbkF2inTwRejFC128qYyV83jqmV1i7mlJ3VA==
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@nop-app/nuxt-nop/-/nuxt-nop-2.1.2.tgz#e14ae75859982aa0a7e99bca8f3c0fbfbd12c548"
+  integrity sha512-/292wPagkX78TDV+PdwZ0fCkcoHfinAAMkfB3aG+q6xMiaE0Aixol3yxotjE2ny/bXlSXEsoPm8KZJe/uE9XbA==
   dependencies:
-    "@nop-app/vue-nop" "^2.0.0"
+    "@nop-app/vue-nop" "^2.1.1"
 
-"@nop-app/vue-nop@^2.0.0":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@nop-app/vue-nop/-/vue-nop-2.1.1.tgz#91354b46024e34ad492538754be50116c58b53d6"
-  integrity sha512-OkuVsAkltzTdQKt5BxWX6WOmUas6xBcHyNKSeonn8X1iv2/ZIW/3Ai6HlNATbQI7+DrflObCg3X0x22dNTXkJQ==
+"@nop-app/vue-nop@^2.1.1":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@nop-app/vue-nop/-/vue-nop-2.1.2.tgz#fc2b36dd1b9e4a1fe9385345e9f8f2c72f43658b"
+  integrity sha512-lNRpUnFtok2Ig5h+0uss0XexYwntqrI42zWQu7RjlbGZymwZ06PkkUPdQCPrN7csuoKDyXlWLEgtJLKerfJBbQ==
 
 "@npmcli/move-file@^1.0.1":
   version "1.1.2"
